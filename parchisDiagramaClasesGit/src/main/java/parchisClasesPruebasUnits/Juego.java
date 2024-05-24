@@ -15,7 +15,10 @@ public class Juego {
 		
 		Tablero tablero = new Tablero();
 		Dado dado1 = new Dado();
-		Jugador yo = new Jugador("Victor", tablero,  "rojo" );
+		
+		Ficha  miFicha = new Ficha();
+		
+		Jugador yo = new Jugador("Victor", tablero ,miFicha);
 		
 		do {
 
