@@ -8,7 +8,7 @@ package parchisClasesPruebasUnits;
  */
 public class Ficha {
 	
-	String color;
+	Jugador jugador;
 	int casilla;
 
 }
