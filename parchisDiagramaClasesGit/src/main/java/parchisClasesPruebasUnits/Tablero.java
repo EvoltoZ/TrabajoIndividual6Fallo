@@ -9,7 +9,7 @@ package parchisClasesPruebasUnits;
 public class Tablero {
 
 	private int numCasillas;
-	boolean[] casillas;
+	private boolean[] casillas;
 	
 	/**
 	 * 
