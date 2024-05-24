@@ -10,6 +10,5 @@ public class Ficha {
 
 	String color;
 	int casilla;
-	int elpepe;
 	
 }
